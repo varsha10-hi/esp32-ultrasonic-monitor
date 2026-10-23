@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  padding: 24px;
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: white;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  padding: 12px 18px;
+  margin: 6px 0;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#distance {
+  font-size: 42px;
+  color: #42e6a4;
+  margin: 16px 0;
+}
+
+#console {
+  height: 220px;
+  overflow-y: auto;
+  padding: 12px;
+  background: #050a12;
+  border-radius: 8px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
